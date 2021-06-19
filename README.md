@@ -10,3 +10,5 @@ You can make your own routing system and authenticate them using isLoggedIn() fu
 Don't forget to use "npm install" to install all dependencies required for the project.
 
 Hope this was useful :)
+
+You may change few things for security like the session secret phrase and to make the password more dynamic instead of hard coding it in the application itself
