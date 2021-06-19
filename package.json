@@ -1,0 +1,21 @@
+{
+  "name": "Login-System",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "ME",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "express-session": "^1.17.2",
+    "mongoose": "^5.12.14",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
