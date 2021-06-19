@@ -1,6 +1,6 @@
 const express       = require('express');
 const session       = require('express-session');
-const hbs        = require('express-handlebars');
+const hbs           = require('express-handlebars');
 const mongoose      = require('mongoose');
 const passport      = require('passport');
 const localStrategy = require('passport-local').Strategy;
